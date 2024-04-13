@@ -1,7 +1,7 @@
 # Simulation Project
 
 <p align="center">
-  <img src=https://github.com/VladislavLevchikIsAProger/simulation/assets/153897612/b2d2a9a6-e91f-4562-b160-3c3f46228795 alt="Your Image" />
+  <img src=https://github.com/VladislavLevchikIsAProger/simulation_project/assets/153897612/56711f57-6636-405f-bb12-c02d3ecd88a5 alt="Your Image" />
 </p>
 
 The point of the project is a step-by-step simulation of a 2D world populated by herbivores and predators. In addition to creatures, the world contains resources (grass), which the herbivores feed on, and static objects with which you can't interact - they just fill the space.The idea for the project was taken from [here](https://zhukovsd.github.io/java-backend-learning-course/Projects/Simulation/)
